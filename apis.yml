@@ -31,6 +31,11 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/conagra-brands/
+    name: Conagra Brands
+    x-relationship: acquired
+    x-evidence: "Paul's, and Hungry-Man, before being acquired by Conagra Brands in 2018."
   - type: DomainSecurity
     url: security/pinnacle-foods-domain-security.yml
   - type: LinkedIn
