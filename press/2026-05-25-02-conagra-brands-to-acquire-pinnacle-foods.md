@@ -1,7 +1,9 @@
 ---
 title: Conagra Brands to Acquire Pinnacle Foods
 url: https://njbmagazine.com/njb-news-now/conagra-brands-to-acquire-pinnacle-foods/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pinnacle Foods" press release artificial intelligence'
 position: 2
 source: serpapi-google

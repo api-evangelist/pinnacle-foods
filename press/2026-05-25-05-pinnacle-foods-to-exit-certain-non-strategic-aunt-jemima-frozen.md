@@ -1,7 +1,9 @@
 ---
 title: Pinnacle Foods to exit certain non-strategic Aunt Jemima frozen ...
 url: https://www.reuters.com/article/business/pinnacle-foods-to-exit-certain-non-strategic-aunt-jemima-frozen-breakfast-produc-idUSFWN1IA0HG/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pinnacle Foods" press release artificial intelligence'
 position: 5
 source: serpapi-google
